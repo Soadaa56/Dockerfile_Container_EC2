@@ -1,0 +1,19 @@
+{
+  "name": "@soadaa56/dockerfile_container_ec2",
+  "version": "1.0.0",
+  "description": "rails app deployment container",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soadaa56/Dockerfile_Container_EC2.git"
+  },
+  "author": "Kevin Duffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soadaa56/Dockerfile_Container_EC2/issues"
+  },
+  "homepage": "https://github.com/Soadaa56/Dockerfile_Container_EC2#readme"
+}
